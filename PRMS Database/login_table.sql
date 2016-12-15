@@ -1,0 +1,17 @@
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092015', '123BAPs', 'mc', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092020', '123BAPs', 'ce', 'Approver');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092023', '123Abc', 'ec', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092025', '123BAPs', 'mc', 'Approver');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092040', '123BAPs', 'ce', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092045', '123BAPs', 'ce', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092050', '123BAPs', 'ec', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092059', '123BAPs', 'it', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092060', '123Abc', 'ic', 'Approver');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092065', '123BAPs', 'ce', 'TPO');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092067', '123BAPs', 'ce', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092077', '123BAPs', 'ch', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092080', '123Abc', 'ic', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('092090', '123BAPs', 'ic', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('093067', '123BAPs', 'ce', 'Student');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('666666', '123Abc', 'ec', 'Approver');
+INSERT INTO `login_table` (`userid`, `password`, `branch`, `user_type`) VALUES ('777777', '123Abc', 'ec', 'Student');

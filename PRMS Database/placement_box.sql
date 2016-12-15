@@ -1,0 +1,17 @@
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092039', 'Meditab', 'ce', '2009', '.Net');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092040', 'TCS', 'ce', '2010', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092041', 'Infibeam', 'ce', '2012', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092042', 'Zeus', 'ce', '2011', 'C++');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092043', 'TCS', 'ce', '2011', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092044', 'TCS', 'it', '2012', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092045', 'TCS', 'it', '2011', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092046', 'Infibeam', 'it', '2012', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092047', 'Cybridge', 'ec', '2012', 'Embedded');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092048', 'Cybridge', 'ec', '2011', 'Embedded');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092049', 'Zeus', 'it', '2010', 'C++');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092050', 'Matrix', 'ce', '2012', 'C++');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092051', 'Matrix', 'ce', '2011', 'C++');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092052', 'Tatvic', 'ce', '2012', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092053', 'Tatvic', 'it', '2011', 'Java/J2EE');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('092054', 'Infostratch', 'ce', '2012', 'Perl');
+INSERT INTO `placement_box` (`StudentId`, `CompanyName`, `Branch`, `Year`, `Subject`) VALUES ('093067', 'NeoDigital', 'ce', '2012', 'Perl');
